@@ -1,4 +1,5 @@
 # Novartis-Data-Science-Hackathon
+
 My approach to this dataset and ways I solved the issues:
 
 1. The dataset had huge class imbalance, so I experimented base classifier with undersampling, oversampling and SMOTE (Synthetic Sampling). The later had the best results.
