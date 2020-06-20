@@ -1,7 +1,7 @@
 # Novartis-Data-Science-Hackathon
 Validation F1 Score : 99.947%
 
-Test F1 Score       : 99.53%
+Test F1 Score       : 99.58%
 
 My approach to this dataset and ways I solved the issues:
 
