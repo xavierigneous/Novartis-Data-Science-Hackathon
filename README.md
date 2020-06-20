@@ -1,4 +1,6 @@
 # Novartis-Data-Science-Hackathon
+Local F1 Score : 99.947%
+Test Score : 99.53%
 
 My approach to this dataset and ways I solved the issues:
 
